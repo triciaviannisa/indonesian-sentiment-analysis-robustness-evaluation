@@ -1,0 +1,31 @@
+sentence,gold_label,predicted_label,label_match
+program-program pemerintah dalam mensubsidi beasiswa kepada mahasiswa indonesia yang berkeinginan untuk melanjutkan pendidikan di sekolah tinggi di luar negeri sangatlah baik .,0,0,True
+saya mendukung tindakan preventif dalam menjaga kelestarian lingkungan yang merupakan tanggung jawab bersama yang harus dilaksanakan dengan penuh kesadaran dan komitmen .,0,0,True
+saya setuju dengan pendapat gibran mengatakan bahwa qris telah memberikan solusi pembayaran praktis tanpa harus bergantung pada uang tunai .,0,1,False
+"menurut saya , anda sangatlah cantik .",0,0,True
+anak itu sangat pandai bermain piano dan memenangkan piala saat lomba,0,0,True
+itu sudah sangat baik .,0,2,False
+saya sangat suka rasa kukisnya . saya ini membelinya lagi .,0,0,True
+"minggu lalu , saya diajak oleh teman untuk pergi ke gereja . saya baru tahu kalau lagu gereja sangat enak untuk didengar .",0,0,True
+saya sangat senang hari ini karena telah kamu ajak ke museum .,0,0,True
+kebaikan hatinya membuat para warga dengan sukarela membantunya di kala susah .,0,0,True
+saat ini media sosial dikejutkan dengan grup facebook bernama “ fantasi sedarah ” yang mengarah pada tindakan asusila terkait ketertarikan seksual dengan anggota keluarganya .,1,1,True
+mohon kesediaan bapak/ibu untuk hadir di acara makan bersama kita besok pukul 19.00 wib .,1,1,True
+"pada hari minggu , saya pergi ke taman bersama ayah untuk memetik mangga dengan delman . tetapi , saya tidak duduk di sebelah pak kusir yang memgendarai kuda supaya baik jalannya karena saya memiliki trauma masa kecil dengan kuda . oleh karena itu , pak kusir duduk seorang diri di depan .",1,0,False
+ponsel genggam saya hilang di stasiun .,1,1,True
+"saya ingin membuatnya sendiri kemarin , tapi saya sedang merasa pusing dan tidak bisa terpikirkan bagaimana caranya .",1,2,False
+saya juga sedang berbicara dengan orang lain di telepon .,1,1,True
+udara dingin membuat sangat ingin melakukan hubungan bersetubuh ya .,1,0,False
+mobil memiliki empat roda .,1,1,True
+varian delta dan omicron dari virus covid-19 diketahui memiliki gejala yang lebih berat dibandingkan dengan varian sebelumnya .,1,1,True
+stefano lilipaly kembali dipanggil untuk bergabung pada pemusatan latihan tim nasional indonesia di bali sebagai bentuk persiapan sebelum pertandingan melawan tim nasional tiongkok pada bulan juni mendatang .,1,1,True
+budi berkata bahwa ibu ika tidak bisa menjelaskan pelajaran dengan baik,2,1,False
+saya tidak suka makan donat,2,2,True
+saya menyayangkan bahwa setiap siswa diwajibkan untuk melaksanakan upacara pada hari senin,2,1,False
+semakin banyak kebijakan pemerintah yang meresahkan dan mengecewakan masyarakat .,2,2,True
+"sayang sekali , pernikahan dini merupakan salah satu faktor banyaknya masyarakat di indonesia yang kurang mampu .",2,2,True
+"saya setuju bahwa kurangnya akses masyarakat terhadap ruang terbuka hijau adalah salah satu indikator kegagalan perencanaan tata ruang kota .",2,1,False
+saya ragu dengan komitmen pemerintah untuk menjadikan sektor pendidikan sebagai prioritas setelah anggaran kementerian dasar dan menengah ( kemendikdasmen ) dipangkas sekitar 8 triliun rupiah .,2,1,False
+"dengan mempertimbangan relevansi pendidikan sebagai dasar esensial bermasyarakat , saya merasa seharusnya pemerintah juga memiliki tanggung jawab besar dalam mengatur sistem pendidikan yang diterapkan di negara tersebut .",2,0,False
+korupsi dan praktik tata kelola yang buruk mengakibatkan kerugian signifikan terhadap pembangunan ekonomi dan kesejahteraan masyarakat indonesia .,2,1,False
+"teman-teman terdekat anda , seperti saya , yang peduli dengan anda , juga kesal .",2,2,True
