@@ -27,8 +27,8 @@ Repository for the materials associated with the Bachelor's Thesis "Evaluating t
 - Results of the extraction in CVS files
 
 ## Fine-tuning
-- Google Colab file for fine-tuning IndoBERT
-- Google Colab file for fine-tuning mBERT
+- Google Colab noteboook for fine-tuning IndoBERT
+- Google Colab noteboook for fine-tuning mBERT
 
 ## Python Dependencies
 - Pandas
