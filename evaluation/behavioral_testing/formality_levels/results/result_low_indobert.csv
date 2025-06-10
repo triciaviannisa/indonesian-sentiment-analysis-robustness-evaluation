@@ -1,0 +1,31 @@
+sentence,gold_label,predicted_label,label_match
+y sbnrny program2 pemerintah buat subsidi beasiswa buat anak2 yg mo kuliah di luar sih bgs bgt y,0,0,True
+"wah , sekarang pada makin peduli sama lingkungan ye ! moga-moga aj makin banyak aksi nyata biar bumi nggak makin rusak .",0,0,True
+"udah denger belom ? kata gibran , qris udah kasih solusi pembayaran praktis tanpa harus pakai cash . bagus banget ya !",0,0,True
+lo cantik banget dah gila bisa ya secakep itu,0,0,True
+anak ktu jago banget main pianonya sampai menangin lomba,0,0,True
+udah bagus anjay,0,0,True
+cookiesnya enak bgt nih ! gue jd pengen beli lagiiiii,0,0,True
+bro gua minggu lalu baru dibawa temen ke gereja nih . ternyata lagu gereja tuh enak2 ya !,0,0,True
+aku seneng banget loh udah kamu ajak ke museum hari ini !,0,0,True
+waktu dia susah warga pada bantuin dia soalnya katanya dia baik banget .,0,0,True
+blkgn kasus ttg grup fb fantasi sedarah lagi bikin heboh .,1,1,True
+dateng besok jam 7 malam buat makan bareng .,1,1,True
+"waktu hari minggu , gua sama bokap ke taman buat metik mangga pake delman . tapi , karena gua kan ada trauma masa kecil gitu kan sama kuda jadi gua ga duduk di depan , di sebelah supirnya yang ngontrol kuda biar jalannya ga oleng . makanya si supirnya duduk di depan sendiri deh .",1,0,False
+woi hape gue anyut di stasiun,1,2,False
+gua kmrn mau bikin sendiri mumet bgt ga kepikiran,1,2,False
+gua lagi ngomong sama orang jg ini sambil call wkkwkw,1,1,True
+udin petot pengen dientot,1,2,False
+mobil tu rodanya empat,1,1,True
+"guys jangan keluar2 duluu , covid yg sekarang serem bgt gejalanya",1,2,False
+si lilipaly  dipanggil latihan timnas lagi di bali buat siap-siap ntar lawan china bulan juni,1,1,True
+"budi ngomong , bu ika gabisa ngajar anjing",2,2,True
+aku gasuka donat,2,0,False
+mager banget tiap senin harus upacara,2,2,True
+"makin ga jelas nih peraturan dari pemerintah , bikin rusuh aja .",2,2,True
+"kalo kata gua sih , di indonesia banyak yg miskin gara2 nikah muda .",2,2,True
+"njirr , mall di mana-mana tapi taman kota minim ! kureng bgt sih ini pas ngeremcanain bangun kotanya",2,0,False
+"halah , katanya pemerintah mau prioritasin pendidikan , kok anggaran kementerian dipotong 8 triliun ?",2,2,True
+"ini sistem pendidikan udah makin kocak aja deh , nggak jelas anjir ? ?",2,2,True
+korupsi sama kelakuan pemerintah yang ngawur bikin ekonomi kita hancur dan rakyat susah semua .,2,2,True
+tmn2 deket lo aja yg peduli sm lo ( aka gue ) aja kesel,2,2,True

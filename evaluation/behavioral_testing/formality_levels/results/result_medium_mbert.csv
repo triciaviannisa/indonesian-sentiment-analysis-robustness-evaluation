@@ -1,0 +1,31 @@
+sentence,gold_label,predicted_label,label_match
+program pemerintahnya untuk subsidi beasiswa ke anak '' indonesia yg pengen kuliah di luar sih bagus ya,0,0,True
+"kayaknya sekarang makin banyak orang yang sadar soal pentingnya menjaga lingkungan , jadi semoga ke depannya makin banyak perubahan positif .",0,0,True
+gibran bilang kalau qris udah memberikan solusi pembayaran praktis tanpa harus bergantung sama uang tunai . bagus banget ya !,0,0,True
+sayang kamu cantik banget sihhh,0,0,True
+anak itu jago banget main piano sampai menang lomba,0,2,False
+itu udah bagus kok .,0,0,True
+"menurutku , cookiesnya enak banget dan bikin kepengen beli lagi .",0,0,True
+aku diajak pergi ke gereja minggu lalu dan baru tau kalau lagu gereja enak-enak .,0,0,True
+aku sangat senang karena hari ini ini kamu mengajak aku ke museum .,0,0,True
+warga membantu dia saat dia susah karena katanya dia baik banget ke orang lain .,0,0,True
+baru-baru ini medsos lagi dikejutkan dengan grup facebook `` fantasi sedarah '' yang mengarah pada tindakan pelecehan pada anggota keluarga .,1,2,False
+mohon kehadiran anda besok untuk makan bersama jam 19.00 wib .,1,1,True
+"hari minggu , aku dan papa pergi ke taman buat memetik mangga . tapi aku engga duduk di sebelah pak supir yang mengendarai kuda biar baik jalannya karena aku punya trauma masa kecil sama kuda . makanya , pak supir duduk sendiri di depan .",1,0,False
+hpku ilang di stasiun .,1,1,True
+"aku mau buat sendiri kemaren , tapi aku lagi pusing dan gak bisa kepikiran caranya .",1,2,False
+aku lagi ngobrol sama orang lain di telpon .,1,1,True
+dingin-dingin gini pengen have sex juga ya .,1,1,True
+rodanya mobil ada empat .,1,1,True
+"teman-teman mohon hati-hati dengan varian virus covid-19 yang sekarang , kata berita gejalanya lebih parah dibanding yang lain .",1,2,False
+lilipaly ternyata dipanggil timnas lagi di bali buat ikut latihan persiapan sebelum lawan china juni nanti,1,1,True
+budi bilang bu ika gabisa jelasin materi dan bikin dia kesusahan,2,2,True
+aku nggak suka makan donat,2,1,False
+aku kurang setuju kalau setiap siswa harus ikut upacara di hari senin,2,1,False
+makin banyak aja peraturan pemerintah yang ngecewain rakyat .,2,2,True
+"menurutku , banyak orang miskin di indonesia karena nikah muda .",2,2,True
+orang bisa nilai perencanaan kota jelek atau engga itu dari ada gaknya ruang terbuka hijau .,2,2,True
+"pemerintah gak serius tentang memprioritaskan pendidikan , anggarannya aja dipotong 8 triliun .",2,1,False
+sistem pendidikan yang sekarang udah perlu dibenerin kalo menurutku .,2,2,True
+korupsi dan pemerintahan yang jelek membuat pembangunan ekonomi terhambat dan merugikan masyarakat indonesia .,2,2,True
+temen kamu yang peduli sama kamu kayak aku juga kesel .,2,2,True
