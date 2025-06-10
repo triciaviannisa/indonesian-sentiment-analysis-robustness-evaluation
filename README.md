@@ -2,7 +2,8 @@
 Repository for the materials associated with the Bachelor's Thesis "Evaluating the Robustness of Sentiment Analysis for Indonesian Using Behavioral Testing"
 
 ## Dataset
-- SmSA Dataset from IndoNLU Benchmark
+- SmSA dataset from IndoNLU Benchmark
+- SmSA test subset from the SmSA dataset, with the sentiment labels changed to numerics
 - Self-constructed formality-level datasets
 
 ## Evaluation
@@ -18,16 +19,16 @@ Repository for the materials associated with the Bachelor's Thesis "Evaluating t
 - Negation Handling
 - Orthographical Errors
 - Sentence Insertion
+- Scripts to run the behavioral testings
+- Results of the behavioral testings in CSV files
 
 ## False Result Extraction
-- Code to extract results where the predicted labels do not match the gold/expected labels
+- Script to extract results where the predicted labels do not match the gold/expected labels
 - Results of the extraction in CVS files
 
 ## Fine-tuning
-- Google Colab for IndoBERT
-- Google Colab for mBERT
-
-## Literature
+- Google Colab file for fine-tuning IndoBERT
+- Google Colab file for fine-tuning mBERT
 
 ## Python Dependencies
 - Pandas
