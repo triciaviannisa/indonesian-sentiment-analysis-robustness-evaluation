@@ -1,0 +1,5 @@
+sentence,gold_label,predicted_label,label_match
+saya mendukung tindakan preventif dalam menjaga kelestarian lingkungan yang merupakan tanggung jawab bersama yang harus dilaksanakan dengan penuh kesadaran dan komitmen .,0,1,False
+"saya ingin membuatnya sendiri kemarin , tapi saya sedang merasa pusing dan tidak bisa terpikirkan bagaimana caranya .",1,2,False
+udara dingin membuat sangat ingin melakukan hubungan bersetubuh ya .,1,0,False
+"dengan mempertimbangan relevansi pendidikan sebagai dasar esensial bermasyarakat , saya merasa seharusnya pemerintah juga memiliki tanggung jawab besar dalam mengatur sistem pendidikan yang diterapkan di negara tersebut .",2,1,False

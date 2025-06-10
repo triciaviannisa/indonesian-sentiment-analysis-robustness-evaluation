@@ -1,0 +1,12 @@
+sentence,gold_label,predicted_label,label_match
+saya setuju dengan pendapat gibran mengatakan bahwa qris telah memberikan solusi pembayaran praktis tanpa harus bergantung pada uang tunai .,0,1,False
+itu sudah sangat baik .,0,2,False
+"pada hari minggu , saya pergi ke taman bersama ayah untuk memetik mangga dengan delman . tetapi , saya tidak duduk di sebelah pak kusir yang memgendarai kuda supaya baik jalannya karena saya memiliki trauma masa kecil dengan kuda . oleh karena itu , pak kusir duduk seorang diri di depan .",1,0,False
+"saya ingin membuatnya sendiri kemarin , tapi saya sedang merasa pusing dan tidak bisa terpikirkan bagaimana caranya .",1,2,False
+udara dingin membuat sangat ingin melakukan hubungan bersetubuh ya .,1,0,False
+budi berkata bahwa ibu ika tidak bisa menjelaskan pelajaran dengan baik,2,1,False
+saya menyayangkan bahwa setiap siswa diwajibkan untuk melaksanakan upacara pada hari senin,2,1,False
+saya setuju bahwa kurangnya akses masyarakat terhadap ruang terbuka hijau adalah salah satu indikator kegagalan perencanaan tata ruang kota .,2,1,False
+saya ragu dengan komitmen pemerintah untuk menjadikan sektor pendidikan sebagai prioritas setelah anggaran kementerian dasar dan menengah ( kemendikdasmen ) dipangkas sekitar 8 triliun rupiah .,2,1,False
+"dengan mempertimbangan relevansi pendidikan sebagai dasar esensial bermasyarakat , saya merasa seharusnya pemerintah juga memiliki tanggung jawab besar dalam mengatur sistem pendidikan yang diterapkan di negara tersebut .",2,0,False
+korupsi dan praktik tata kelola yang buruk mengakibatkan kerugian signifikan terhadap pembangunan ekonomi dan kesejahteraan masyarakat indonesia .,2,1,False

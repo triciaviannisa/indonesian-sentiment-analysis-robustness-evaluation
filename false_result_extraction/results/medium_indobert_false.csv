@@ -1,0 +1,7 @@
+sentence,gold_label,predicted_label,label_match
+baru-baru ini medsos lagi dikejutkan dengan grup facebook `` fantasi sedarah '' yang mengarah pada tindakan pelecehan pada anggota keluarga .,1,2,False
+"hari minggu , aku dan papa pergi ke taman buat memetik mangga . tapi aku engga duduk di sebelah pak supir yang mengendarai kuda biar baik jalannya karena aku punya trauma masa kecil sama kuda . makanya , pak supir duduk sendiri di depan .",1,2,False
+hpku ilang di stasiun .,1,2,False
+"aku mau buat sendiri kemaren , tapi aku lagi pusing dan gak bisa kepikiran caranya .",1,2,False
+dingin-dingin gini pengen have sex juga ya .,1,0,False
+"teman-teman mohon hati-hati dengan varian virus covid-19 yang sekarang , kata berita gejalanya lebih parah dibanding yang lain .",1,2,False

@@ -1,0 +1,13 @@
+sentence,gold_label,predicted_label,label_match
+y sbnrny program2 pemerintah buat subsidi beasiswa buat anak2 yg mo kuliah di luar sih bgs bgt y,0,1,False
+"wah , sekarang pada makin peduli sama lingkungan ye ! moga-moga aj makin banyak aksi nyata biar bumi nggak makin rusak .",0,2,False
+lo cantik banget dah gila bisa ya secakep itu,0,2,False
+blkgn kasus ttg grup fb fantasi sedarah lagi bikin heboh .,1,2,False
+"waktu hari minggu , gua sama bokap ke taman buat metik mangga pake delman . tapi , karena gua kan ada trauma masa kecil gitu kan sama kuda jadi gua ga duduk di depan , di sebelah supirnya yang ngontrol kuda biar jalannya ga oleng . makanya si supirnya duduk di depan sendiri deh .",1,0,False
+gua kmrn mau bikin sendiri mumet bgt ga kepikiran,1,2,False
+gua lagi ngomong sama orang jg ini sambil call wkkwkw,1,2,False
+udin petot pengen dientot,1,2,False
+mobil tu rodanya empat,1,2,False
+"guys jangan keluar2 duluu , covid yg sekarang serem bgt gejalanya",1,2,False
+aku gasuka donat,2,0,False
+tmn2 deket lo aja yg peduli sm lo ( aka gue ) aja kesel,2,1,False
