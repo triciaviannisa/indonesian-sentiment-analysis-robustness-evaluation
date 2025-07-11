@@ -1,5 +1,7 @@
-# Bachelor's Thesis. Maria Patricia Viannisa. LMU, CIS. June 11, 2025.
-Repository for the materials associated with the Bachelor's Thesis "Evaluating the Robustness of Sentiment Analysis for Indonesian Using Behavioral Testing"
+# Evaluating the Robustness of Sentiment Analysis for Indonesian Using Behavioral Testing
+
+## About
+Repository for the materials associated with the Bachelor's Thesis "Evaluating the Robustness of Sentiment Analysis for Indonesian Using Behavioral Testing" at LMU Munich, 11th June, 2025.
 
 ## Dataset
 - SmSA dataset from IndoNLU Benchmark
@@ -12,7 +14,7 @@ Repository for the materials associated with the Bachelor's Thesis "Evaluating t
 - Accuracy
 - Precision
 - Recall
-- F-1 Score
+- Macro-averaged F-1 Score
 
 ### Behavioral Testing
 - Formality Levels
